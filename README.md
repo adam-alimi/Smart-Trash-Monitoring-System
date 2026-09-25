@@ -162,8 +162,8 @@ Contributions are welcome! If you'd like to improve this project, please:
 
 For any questions or suggestions, feel free to reach out to me:
 
-* **Your Name/Handle:** Alimi Mohamed Adam
-* **Email:** mohamed.adam.alimi@gmail.com
-* **LinkedIn :** (https://www.linkedin.com/in/mohamed-adam-alimi-99ba02284/)
-* **GitHub:** (https://github.com/med-adam-alimi)
+* **Your Name/Handle:** Alimi  Adam
+* **Email:** adam.alimi.eng@gmail.com
+* **LinkedIn :** (https://www.linkedin.com/in/madam-alimi-99ba02284/)
+* **GitHub:** (https://github.com/adam-alimi)
 
